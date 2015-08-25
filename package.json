@@ -1,0 +1,18 @@
+{
+  "name": "modular_gulp",
+  "version": "1.0.0",
+  "description": "Modular gulp base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Canela",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-load-plugins": "^0.10.0"
+  },
+  "devDependencies": {
+    "gulp-eslint": "^1.0.0"
+  }
+}
